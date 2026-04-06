@@ -16,6 +16,7 @@ Resources about SILMA AI and Arabic AI Technologies
 
 ## Resources
 
+* [Arabic AI Ecosystem](https://github.com/SILMA-AI/arabic-ai-ecosystem)
 * [Arabic LLM Models List](https://huggingface.co/blog/silma-ai/arabic-llm-models-list)
 * [Arabic LLM Leaderboards & Benchmarks](https://huggingface.co/blog/silma-ai/arabic-ai-benchmarks-and-leaderboards)
 * [Arabic Commercial TTS Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)
