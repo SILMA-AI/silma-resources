@@ -10,7 +10,7 @@ Resources about SILMA AI and Arabic AI Technologies
 * Ollama: [https://ollama.com/silma_ai](https://ollama.com/silma_ai)
 * Arabic LLM Leaderboard & Benchmark: [https://huggingface.co/spaces/silma-ai/Arabic-LLM-Broad-Leaderboard](https://huggingface.co/spaces/silma-ai/Arabic-LLM-Broad-Leaderboard)
 * Medium Blog: [https://medium.com/@silma_ai](https://medium.com/@silma_ai)
-* SILMA Commercial TTS Models: [https://silma.ai/arabic-tts-models](https://silma.ai/arabic-tts-models)
+* SILMA Commercial TTS Models: [https://silma.ai/arabic-text-to-speech](https://silma.ai/arabic-text-to-speech)
 * SILMA Opensource TTS Model (Hugging Face): [https://silma.ai/arabic-tts-models](https://huggingface.co/silma-ai/silma-tts)
 * SILMA Opensource TTS Model (Github): [https://github.com/SILMA-AI/silma-tts](https://github.com/SILMA-AI/silma-tts)
 
